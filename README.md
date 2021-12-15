@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soithangsing
 - 👀 I’m interested in front-end web development and UI-UX design. 
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🌱 I’m currently following The Odin Project!
 - 💞️ I’m making websites!
 - 📫 You can reach out to me on twitter @theofficialsoi
 
