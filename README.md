@@ -1,7 +1,15 @@
+<a href="https://github.com/soithangsing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=soithangsing&hide=stars&show_icons=true&theme=cobalt2" />
+</a>
+<a href="https://github.com/soithangsing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soithangsing&theme=cobalt2" />
+</a>
+
 
 <p align="center">
     [![Soi's GitHub stats](https://github-readme-stats.vercel.app/api?username=soithangsing&hide=stars&show_icons=true&theme=cobalt2)](https://github.com/soithangsing)
 </p>
+
 
 <p align="center">
     <img src="https://github.com/soithangsing/soithangsing/blob/main/powerup.gif" alt="drawing" width="350" height="350"/>
