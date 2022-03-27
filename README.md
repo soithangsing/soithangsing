@@ -1,8 +1,10 @@
 
 
-## Soi Thangsing's GitHub Profile 
+## Welcome to my GitHub Profile 👋 
 
-👋 My name is Soi, and I am a Front End Web Developer, learning Full Stack Development.
+😎 My name is Soi and you are on my GitHub Profile.
+
+🤠 I am a front-end developer learning full stack MERN development. I took my first dive in HTML, CSS & JavaScript during my second year in college and I have been coding ever since! 
 
 <div align="center">
   <a align="center" href="https://github.com/soithangsing">
@@ -24,7 +26,6 @@
 
 ### Bio Data
 
-🤠 I am a front-end developer learning full stack MERN development. I took my first dive in HTML, CSS & JavaScript during my second year in college and I have been coding ever since! 
 
 <!---
 soithangsing/soithangsing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
