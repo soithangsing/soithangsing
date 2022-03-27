@@ -41,3 +41,7 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=soithangsing&show_icons=true&theme=cobalt2&locale=en" alt="soithangsing" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soithangsing&hide=stars&show_icons=true&theme=cobalt2&locale=en&layout=compact" alt="soithangsing" /></p>
+
+---
+
+## Some of my projects are pinned below:- 
