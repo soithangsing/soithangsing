@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/UTDjW0DOyDS49OQO4V/giphy-downsized-large.gif">
 
-[![Soi's GitHub stats](https://github-readme-stats.vercel.app/api?username=soithangsing&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Soi's GitHub stats](https://github-readme-stats.vercel.app/api?username=soithangsing&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
