@@ -8,7 +8,9 @@
     <img src="https://github.com/soithangsing/soithangsing/blob/main/powerup.gif" alt="drawing" width="300" height="300"/>
  </p>
  
- Always *leveling* up!
+ <p align="center">
+ Always **leveling** up!
+ </p>
  
   <a align="center" href="https://github.com/soithangsing">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=soithangsing&hide=stars&show_icons=true&theme=cobalt2" />
@@ -18,8 +20,6 @@
   </a>
  
 <!--- ![](https://github.com/soithangsing/soithangsing/blob/main/powerup.gif) --->
-
-### Bio Data
 
 
 <!---
