@@ -11,6 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![](https://media.giphy.com/media/UTDjW0DOyDS49OQO4V/giphy-downsized-large.gif)
+![](https://github.com/soithangsing/soithangsing/blob/main/powerup.gif)
 
 [![Soi's GitHub stats](https://github-readme-stats.vercel.app/api?username=soithangsing&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
