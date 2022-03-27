@@ -33,8 +33,8 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/theofficialsoi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="theofficialsoi" /></a></p><br><br>
 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=soithangsing&" alt="soithangsing" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=soithangsing&show_icons=true&theme=cobalt2&locale=en" alt="soithangsing" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soithangsing&hide=stars&show_icons=true&theme=cobalt2&locale=en&layout=compact" alt="soithangsing" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soithangsing&show_icons=true&theme=cobalt2&locale=en" alt="soithangsing" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soithangsing&" alt="soithangsing" /></p>
