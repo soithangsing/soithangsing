@@ -31,13 +31,10 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 <a href="https://twitter.com/theofficialsoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theofficialsoi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/soithangsing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soithangsing" height="30" width="40" /></a>
-<a href="/https://21stcenturydude.art.blog/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://21stcenturydude.art.blog/feed/" height="30" width="40" /></a>
 </p>
 
-
-
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/theofficialsoi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="theofficialsoi" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/theofficialsoi"> <img align="left" src="https://cdn-icons.flaticon.com/png/512/1047/premium/1047503.png?token=exp=1648380747~hmac=275d4c37d124e09d2c3a3cbdd2432c26" height="50" width="210" alt="theofficialsoi" /></a></p><br><br>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=soithangsing&" alt="soithangsing" /></p>
 
