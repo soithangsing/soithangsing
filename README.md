@@ -1,6 +1,8 @@
-<a align="center" href="https://github.com/soithangsing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soithangsing&theme=cobalt2" />
-</a>
+<div align="center">
+  <a href="https://github.com/soithangsing">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soithangsing&theme=cobalt2" />
+  </a>
+ </div>
 
 <p align="center">
     <img src="https://github.com/soithangsing/soithangsing/blob/main/powerup.gif" alt="drawing" width="350" height="350"/>
