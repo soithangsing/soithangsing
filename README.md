@@ -2,6 +2,7 @@
 [![Soi's GitHub stats](https://github-readme-stats.vercel.app/api?username=soithangsing&hide=stars&show_icons=true)](https://github.com/soithangsing)
 
 ![](https://github.com/soithangsing/soithangsing/blob/main/powerup.gif)
+<img src="https://github.com/soithangsing/soithangsing/blob/main/powerup.gif" alt="drawing" width="300" height="300"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soithangsing)](https://github.com/soithangsing)
 - 👋 Hi, I’m @soithangsing
