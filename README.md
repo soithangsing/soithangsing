@@ -5,9 +5,10 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Hi 👋, I'm Soilianmang Thangsing</h1>
 <h3 align="center">🤠 I am a front-end developer learning full stack MERN development. I took my first dive in HTML, CSS & JavaScript during my second year in college and I have been coding ever since!</h3>
-- 👨‍💻 My portfolio website is [here](https://blissful-clarke-77b2ef.netlify.app/)
 
-- 📝 I regularly write articles on [my WordPress blog(http://21stcenturydude.art.blog/)
+- 👨‍💻 You can find my portfolio website [https://blissful-clarke-77b2ef.netlify.app/](here)
+
+- 📝 I often write articles on [http://21stcenturydude.art.blog/](my WordPress blog)
 
 - 📫 You can mail me at **getdatasoi@outlook.com**
 
