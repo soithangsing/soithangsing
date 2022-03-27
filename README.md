@@ -9,7 +9,7 @@
  </p>
  
  <p align="center">
- Always **leveling** up!
+    Always <b>leveling</b> up! 🔥
  </p>
  
   <a align="center" href="https://github.com/soithangsing">
