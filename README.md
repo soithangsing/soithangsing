@@ -8,13 +8,13 @@
     <img src="https://github.com/soithangsing/soithangsing/blob/main/powerup.gif" alt="drawing" width="350" height="350"/>
 </p>
 
-<a align="center" href="https://github.com/soithangsing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=soithangsing&hide=stars&show_icons=true&theme=cobalt2" />
-</a>
+<div align="center">
+  <a align="center" href="https://github.com/soithangsing">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=soithangsing&hide=stars&show_icons=true&theme=cobalt2" />
+   </a>
+</div>
 
 <!--- ![](https://github.com/soithangsing/soithangsing/blob/main/powerup.gif) --->
-
-
 
 - 👋 Hi, I’m @soithangsing
 - 👀 I’m interested in front-end web development and UI-UX design. 
