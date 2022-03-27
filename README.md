@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 - <p> 👨‍💻 You can find my portfolio website <a href="https://blissful-clarke-77b2ef.netlify.app/" target="_blank">here</a></p>
 
-- <p> 📝 I regularly write articles on my <a href="[http://21stcenturydude.art.blog/" target="_blank"> WordPress blog here </a> </p>
+- <p> 📝 I regularly write articles on my <a href="http://21stcenturydude.art.blog/" target="_blank"> WordPress blog here </a> </p>
 
 - 📫 You can mail me at **getdatasoi@outlook.com**
 
