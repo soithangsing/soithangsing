@@ -3,7 +3,7 @@
 
 ![](https://github.com/soithangsing/soithangsing/blob/main/powerup.gif)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soithangsing)](https://github.com/soithangsing
 - 👋 Hi, I’m @soithangsing
 - 👀 I’m interested in front-end web development and UI-UX design. 
 - 🌱 I’m currently following The Odin Project!
