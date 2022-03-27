@@ -33,8 +33,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://linkedin.com/in/soithangsing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soithangsing" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/theofficialsoi"> <img align="left" src="https://www.flaticon.com/premium-icon/coffee-cup_1047503?term=coffee&page=1&position=5&page=1&position=5&related_id=1047503&origin=search" height="50" width="50" alt="theofficialsoi" /></a></p><br><br>
+<h3 align="left">Buy Me an Energy Drink</h3>
+<p><a href="https://www.buymeacoffee.com/theofficialsoi"> <img align="left" src="https://cdn-icons-png.flaticon.com/512/1150/1150231.png" height="50" width="50" alt="theofficialsoi" /></a></p><br><br>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=soithangsing&" alt="soithangsing" /></p>
 
