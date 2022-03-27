@@ -19,7 +19,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soithangsing&theme=cobalt2" />
   </a>
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=soithangsing&theme=buddhism)](https://github.com/soithangsing)
+### [![trophy](https://github-profile-trophy.vercel.app/?username=soithangsing&theme=buddhism)](https://github.com/soithangsing)
 
 
 
