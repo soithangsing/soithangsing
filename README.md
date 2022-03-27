@@ -1,6 +1,8 @@
 
 
-# Soi Thangsing
+## Soi Thangsing's GitHub Profile 
+
+👋 My name is Soi, and I am a Front End Web Developer, learning Full Stack Development.
 
 <div align="center">
   <a align="center" href="https://github.com/soithangsing">
@@ -20,11 +22,9 @@
  
 <!--- ![](https://github.com/soithangsing/soithangsing/blob/main/powerup.gif) --->
 
-- 👋 Hi, I’m @soithangsing
-- 👀 I’m interested in front-end web development and UI-UX design. 
-- 🌱 I’m currently following The Odin Project!
-- 💞️ I’m making websites!
-- 📫 You can reach out to me on twitter @theofficialsoi
+### Bio Data
+
+🤠 I am a front-end developer learning full stack MERN development. I took my first dive in HTML, CSS & JavaScript during my second year in college and I have been coding ever since! 
 
 <!---
 soithangsing/soithangsing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
