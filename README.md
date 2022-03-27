@@ -1,3 +1,9 @@
+
+[![Soi's GitHub stats](https://github-readme-stats.vercel.app/api?username=soithangsing&hide=stars&show_icons=true)](https://github.com/soithangsing)
+
+![](https://github.com/soithangsing/soithangsing/blob/main/powerup.gif)
+
+
 - 👋 Hi, I’m @soithangsing
 - 👀 I’m interested in front-end web development and UI-UX design. 
 - 🌱 I’m currently following The Odin Project!
@@ -8,9 +14,3 @@
 soithangsing/soithangsing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-
-![](https://github.com/soithangsing/soithangsing/blob/main/powerup.gif)
-
-[![Soi's GitHub stats](https://github-readme-stats.vercel.app/api?username=soithangsing&hide=stars&show_icons=true)](https://github.com/soithangsing)
