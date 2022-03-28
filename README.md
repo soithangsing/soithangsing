@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Soilianmang Thangsing</h1>
-<h3 align="center">🤠 I am a front-end developer learning full stack MERN development. I took my first dive in HTML, CSS & JavaScript during my second year in college and I have been coding ever since!</h3>
+<h3 align="center">🤠 I am a front-end developer learning the MERN stack. I took my first dive in HTML, CSS & JavaScript during my second year in college and I have been coding ever since!</h3>
 
 - <p> 👨‍💻 You can find my portfolio website <a href="https://blissful-clarke-77b2ef.netlify.app/" target="_blank">here</a></p>
 
