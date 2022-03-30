@@ -8,8 +8,6 @@ You can click the Preview link to take a look at your changes.
 
 - <p> 👨‍💻 You can find my portfolio website <a href="https://blissful-clarke-77b2ef.netlify.app/" target="_blank">here</a></p>
 
-- <p> 📝 I regularly write articles on my <a href="http://21stcenturydude.art.blog/" target="_blank"> WordPress blog here </a> </p>
-
 - 📫 For freelance work contact me at **getdatasoi@outlook.com** with subject "Freelance"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soithangsing&label=Profile%20views&color=0e75b6&style=flat" alt="soithangsing" /> </p>
