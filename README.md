@@ -45,17 +45,30 @@ You can click the Preview link to take a look at your changes.
 <p align="center">🙃</p></br>
 <p align="center">😉</p></br>
 
-<h2 align="center">My projects</h2></br>
+<h2 align="center">My ⭐ projects</h2></br>
 
 
 
 
 <kbd>   
-<h3 align="center">Custom Blog</h3>
+    <h3 align="center"><a href="https://github.com/soithangsing/lifeofsoi_blog" target="_blank">Life of Soi - Blog</a></h3>
 
 <p align="center">
  <img src="https://github.com/soithangsing/soithangsing/blob/main/blog-lifeofsoi.jpg" alt="blog-screenshot" width="700" height=350"/>
-                                                                                                                                   </p><p align="center">Description</p></kbd>
+                                                                                                                                   </p><br/><h3>Life of Soi is a blog with GraphCMS integration that allows me (the developer) to seamlessly create new posts and categories from a GUI with comment moderation. <br/><br/> ✅ <a href="https://blog-lifeofsoi.vercel.app"> Live on Vercel </a>
+<br/><br/>
+Technologies used
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>Tailwind CSS</li>
+<li>JavaScript</li>
+<li>React</li>
+<li>Next.JS</li>
+<li>GraphQL</li>
+<li>GraphCMS</li>
+</ul>
+</h3></kbd><br/><br/>
                                                                                                                                       
 <kbd>  
  <h3 align="center">Rock, Paper, Scissors Minigame</h3> 
