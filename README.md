@@ -83,9 +83,9 @@ Technologies used
 <li>HTML</li>
 <li>CSS</li>
 <li>JavaScript</li>
-</ul></h3></kbd>
+</ul></h3></kbd><br/><br/>
  
-<kbd><br/><br/>
+<kbd>
                   <h3 align="center">Sketch App</h3>
  <p align="center">
     <img src="https://github.com/soithangsing/soithangsing/blob/main/rockstar-sketch-screenshot.jpg" alt="sketch-app-screenshot" width="700" height="350"/>
