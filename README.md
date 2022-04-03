@@ -45,13 +45,13 @@ You can click the Preview link to take a look at your changes.
 <p align="center">🙃</p></br>
 <p align="center">😉</p></br>
 
-<h2 align="center">My ⭐ projects</h2></br>
+<h2 align="center">✨ My projects ✨</h2></br>
 
 
 
 
 <kbd>   
-    <h3 align="center"><a href="https://github.com/soithangsing/lifeofsoi_blog" target="_blank">Life of Soi - Blog</a></h3>
+    <h3 align="center"><a href="https://github.com/soithangsing/lifeofsoi_blog" target="_blank">⭐ Life of Soi - Blog ⭐</a></h3>
 
 <p align="center">
  <img src="https://github.com/soithangsing/soithangsing/blob/main/blog-lifeofsoi.jpg" alt="blog-screenshot" width="700" height=350"/>
@@ -71,11 +71,19 @@ Technologies used
 </h3></kbd><br/><br/>
                                                                                                                                       
 <kbd>  
- <h3 align="center">Rock, Paper, Scissors Minigame</h3> 
+ <h3 align="center"><a href="https://github.com/soithangsing/rock-paper-scissors/" target="_blank">⭐ Rock, Paper, Scissors! - Minigame ⭐</a></h3> 
 <p align="center">
     <img src="https://github.com/soithangsing/soithangsing/blob/main/rock-paper-scissors-screenshot.jpg" alt="rock-paper-scissor-screenshot" width="700" height="350"/>
  </p>
-<p align="center">Description</p></kbd>
+<h3>Rock, Paper, Scissors! is a minigame based on the most popular way to settle scores! The first to 5 points wins! Challenge your luck with a Bot!<br/><br/>
+
+✅ <a href="https://soithangsing.github.io/rock-paper-scissors/" target="_blank">Live on GitHub Pages </a><br/><br/>
+Technologies used
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+</ul></h3></kbd>
  
 <kbd>
                   <h3 align="center">Sketch App</h3>
