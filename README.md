@@ -43,20 +43,23 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center">My projects</h2>
 
-<h3 align="center">Custom Blog</h3>
+
 <p align="center">
-    <img src="https://github.com/soithangsing/soithangsing/blob/main/blog-lifeofsoi.jpg" alt="blog-screenshot" width="800" height=400"/>
+    <img src="https://github.com/soithangsing/soithangsing/blob/main/blog-lifeofsoi.jpg" alt="blog-screenshot" width="700" height=350"/>
  </p>
+                                                                                                                                      <h3 align="center">Custom Blog</h3>
 <p align="center">Description</p>
                                                                                                                                       
-<h3 align="center">Rock, Paper, Scissors Minigame</h3>                                                                                                                                    
+                                                                                                                                
 <p align="center">
-    <img src="https://github.com/soithangsing/soithangsing/blob/main/rock-paper-scissors-screenshot.jpg" alt="rock-paper-scissor-screenshot" width="800" height="400"/>
+    <img src="https://github.com/soithangsing/soithangsing/blob/main/rock-paper-scissors-screenshot.jpg" alt="rock-paper-scissor-screenshot" width="700" height="350"/>
  </p>
+ <h3 align="center">Rock, Paper, Scissors Minigame</h3>    
  <p align="center">Description</p>
  
- <h3 align="center">Sketch App</h3>
+
  <p align="center">
-    <img src="https://github.com/soithangsing/soithangsing/blob/main/rockstar-sketch-screenshot.jpg" alt="sketch-app-screenshot" width="800" height="400"/>
+    <img src="https://github.com/soithangsing/soithangsing/blob/main/rockstar-sketch-screenshot.jpg" alt="sketch-app-screenshot" width="700" height="350"/>
  </p>
+  <h3 align="center">Sketch App</h3>
  <p align="center">Description</p>
