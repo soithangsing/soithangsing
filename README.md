@@ -45,13 +45,13 @@ You can click the Preview link to take a look at your changes.
 ## Some of my projects are pinned below:- 
 
 <p align="center">
-    <img src="https://github.com/soithangsing/soithangsing/blob/main/blog-lifeofsoi.jpg" alt="blog-screenshot" width="700" height="500"/>
+    <img src="https://github.com/soithangsing/soithangsing/blob/main/blog-lifeofsoi.jpg" alt="blog-screenshot" width="800" height="400"/>
  </p>
  
 <p align="center">
-    <img src="https://github.com/soithangsing/soithangsing/blob/main/rock-paper-scissors-screenshot.jpg" alt="rock-paper-scissor-screenshot" width="700" height="500"/>
+    <img src="https://github.com/soithangsing/soithangsing/blob/main/rock-paper-scissors-screenshot.jpg" alt="rock-paper-scissor-screenshot" width="800" height="400"/>
  </p>
  
  <p align="center">
-    <img src="https://github.com/soithangsing/soithangsing/blob/main/rockstar-sketch-screenshot.jpg" alt="sketch-app-screenshot" width="700" height="500"/>
+    <img src="https://github.com/soithangsing/soithangsing/blob/main/rockstar-sketch-screenshot.jpg" alt="sketch-app-screenshot" width="800" height="400"/>
  </p>
