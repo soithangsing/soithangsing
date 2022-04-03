@@ -44,11 +44,13 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">My projects</h2>
 
 
-<p align="center">
-    <img src="https://github.com/soithangsing/soithangsing/blob/main/blog-lifeofsoi.jpg" alt="blog-screenshot" width="700" height=350"/>
- </p>
-                                                                                                                                      <h3 align="center">Custom Blog</h3>
+
+   
+<h3 align="center">Custom Blog</h3>
 <p align="center">Description</p>
+<p align="center">
+ <img src="https://github.com/soithangsing/soithangsing/blob/main/blog-lifeofsoi.jpg" alt="blog-screenshot" width="700" height=350"/>
+ </p>
                                                                                                                                       
                                                                                                                                 
 <p align="center">
