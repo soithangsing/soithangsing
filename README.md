@@ -91,5 +91,12 @@ Technologies used
     <img src="https://github.com/soithangsing/soithangsing/blob/main/rockstar-sketch-screenshot.jpg" alt="sketch-app-screenshot" width="700" height="350"/>
  </p>
  
- <p align="center">Description</p>
-                  </kbd>
+ <h3>Rockstar Sketch is a handy sketch app that you can use to bring your imaginations closer to reality in several colors!<br/><br/>
+
+✅ <a href="https://soithangsing.github.io/etch-a-sketch/" target="_blank">Live on GitHub Pages</a><br/><br/>
+ Technologies used
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+</ul></h3></kbd>
