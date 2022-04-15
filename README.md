@@ -10,6 +10,8 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 For freelance work contact me at **getdatasoi@outlook.com** with subject "Freelance"
 
+- 📝 I am documenting my developer journey on [https://soithangsing.hashnode.dev/](https://soithangsing.hashnode.dev/)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soithangsing&label=Profile%20views&color=0e75b6&style=flat" alt="soithangsing" /> </p>
 
 <p align="left"> <a href="https://twitter.com/theofficialsoi" target="blank"><img src="https://img.shields.io/twitter/follow/theofficialsoi?logo=twitter&style=for-the-badge" alt="theofficialsoi" /></a> </p>
