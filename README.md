@@ -102,6 +102,3 @@ Technologies used
 <li>CSS</li>
 <li>JavaScript</li>
 </ul></h3></kbd><br/><br/>
-                                                                         <h2 >My other hobbies 🕹️</h2> 
-                                                                                           <p><img src="https://github.com/soithangsing/soithangsing/blob/main/Dimitri.jpg" alt="my-cs-profile"/></p>
-                                                                                                                          <p>I love playing CS:GO! </p>
