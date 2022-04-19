@@ -77,7 +77,7 @@ Technologies used
 <p align="center">
     <img src="https://github.com/soithangsing/soithangsing/blob/main/rock-paper-scissors-screenshot.jpg" alt="rock-paper-scissor-screenshot" width="700" height="350"/>
  </p>
-<h3>Rock, Paper, Scissors! is a minigame based on the most popular way to settle scores! The first to 5 points wins! Challenge your luck with a Bot!<br/><br/>
+<h3>Rock, Paper, Scissors! is a minigame based on the most popular way to settle scores! The first to 5 points wins! Challenge your luck with a Bot!!<br/><br/>
 
 ✅ <a href="https://soithangsing.github.io/rock-paper-scissors/" target="_blank">Live on GitHub Pages </a><br/><br/>
 Technologies used
