@@ -4,13 +4,13 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Soilianmang Thangsing</h1>
-<h3 align="center">🤠 I am a front-end developer learning the MERN stack. I took my first dive in HTML, CSS & JavaScript during my second year in college and I have been coding ever since!</h3>
+<p align="center">🤠 I am a front-end developer learning the MERN stack. I took my first dive in HTML, CSS & JavaScript during my second year in college and I have been coding ever since!</p>
 
-- <p> 👨‍💻 View my portfolio <a href="https://blissful-clarke-77b2ef.netlify.app/" target="_blank">here</a></p>
+- <h3> 👨‍💻 <a href="https://blissful-clarke-77b2ef.netlify.app/" target="_blank">My Portfolio Website</a></h4>
 
-- 📫 For freelance work contact me at **getdatasoi@outlook.com** with subject "Freelance"
+- <h3> 📫 For work contact me at getdatasoi@outlook.com with the subject "Freelance" </h3>
 
-- 📝 I am documenting my developer journey on [https://soithangsing.hashnode.dev/](https://soithangsing.hashnode.dev/)
+<!--- - 📝 I am documenting my developer journey on [https://soithangsing.hashnode.dev/](https://soithangsing.hashnode.dev/) --->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soithangsing&label=Profile%20views&color=0e75b6&style=flat" alt="soithangsing" /> </p>
 
